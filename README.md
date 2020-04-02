@@ -16,7 +16,7 @@ Attention ce script est a utilisé uniquement dans un environnement de DEV/TEST 
 Téléchargez le script sur le serveur
 ```sh
 cd /tmp
-wget https://github.com/UpperM/MedShakeEHR-install-script/releases/download/0.1/install-ehr.sh
+wget https://raw.githubusercontent.com/UpperM/MedShakeEHR-install-script/master/install-ehr.sh
 ```
 
 ## Installation
