@@ -1,7 +1,6 @@
 # MedShakeEHR-install-script
-![alt text](https://raw.githubusercontent.com/UpperM/guacamole-powershell/master/PSGuacamole-logo.png)
 
-[![GitHub release](https://img.shields.io/badge/release-v1.0.0-blue)](https://github.com/UpperM/guacamole-powershell/releases/latest)
+[![GitHub release](https://img.shields.io/badge/release-v0.1.0-blue)](https://github.com/UpperM/MedShakeEHR-install-script/releases/latest)
 
 Script pour installer le l'application MedShakeEHR sur un serveur Debian 10.
 Attention ce script est a utilisé uniquement dans un environnement de DEV/TEST !
